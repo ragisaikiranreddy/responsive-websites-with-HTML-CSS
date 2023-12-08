@@ -1,0 +1,302 @@
+
+/* navbar section  */
+
+.ecommerce-website-logo-img {
+    height: 65px;
+}
+
+#navItem1 {
+    color: #000000;
+}
+
+#navItem2 {
+    color: #000000;
+}
+
+#navItem3 {
+    color: #000000;
+}
+
+#navItem4 {
+    color: #000000;
+}
+
+#navItem5 {
+    color: #000000;
+}
+
+/* .ecommerce-carousel-container {
+    height: 100vh;
+}  */
+
+
+
+/* services section */
+
+.ecommerce-services-section {
+    font-family: "Roboto";
+}
+
+.ecommerce-services-title {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.ecommerce-services-description {
+    color: #616c7c;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.ecommerce-services-card-item {
+    height: 90%;
+}
+
+.ecommerce-services-card-item-heading {
+    color: #1f2933;
+    font-size: 25px;
+}
+
+.ecommerce-services-card-item-description {
+    color: #7b8794;
+    font-size: 18px;
+}
+
+
+/* products section */
+
+.ecommerce-products-section {
+    background-color: #f5f7fa;
+    font-family: "Roboto";
+}
+
+.ecommerce-products-title {
+    color: #183b56;
+    font-weight: bold;
+}
+
+.ecommerce-products-card-bg1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+}
+
+.ecommerce-products-card-bg2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+}
+
+.ecommerce-products-card-container {
+    background-size: cover;
+    background-position: center;
+    height: 40vh;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 10px;
+}
+
+.ecommerce-products-card-button {
+    height: 45px;
+    width: 135px;
+    color: #ff9f00;
+    background-color: white;
+    border-width: 0px;
+    border-radius: 25px;
+    font-weight: 500;
+}
+
+.ecommerce-products-card-heading {
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.ecommerce-products-all-offers-link {
+    color: #ff9f00;
+    font-weight: bold;
+}
+
+.ecommerce-products-modal-text-color {
+    color: #323f4b;
+    font-weight: 400;
+}
+
+.ecommerce-products-modal-feature-title {
+    font-weight: bold;
+}
+
+/* .ecommerce-products-modal-size {
+    width: 2000px;
+    max-width: 100%;
+} */
+
+
+
+/* offers section */
+
+.ecommerce-offers-section {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    background-size: cover;
+}
+
+.ecommerce-offers-title {
+    color: #ad2167;
+    font-size: 35px;
+    font-family: "Bree Serif";
+}
+
+.ecommerce-offers-description {
+    font-size: 24px;
+    font-family: "Roboto";
+}
+
+.ecommerce-offers-description-save-text {
+    font-style: italic;
+    font-weight: 600;
+}
+
+
+/* trending blogs section */
+
+.ecommerce-trendingBlogs-title {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+/*
+.ecommerce-trendingBlogs-card-item {
+     height: 30vh; 
+} 
+*/
+
+.ecommerce-trendingBlogs-text-container-tagname {
+    color: #959ead;
+}
+
+.ecommerce-trendingBlogs-text-container-heading {
+    color: #183b56;
+    font-size: 30px;
+}
+
+.ecommerce-trendingBlogs-text-container-description {
+    color: #959ead;
+    font-size: 20px;
+}
+
+.ecommerce-trendingBlogs-text-container-description {
+    color: #959ead;
+    font-size: 20px;
+}
+
+.ecommerce-trendingBlogs-text-container-readmore-link {
+    color: #ff9f00;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+/* explore deals and offers section */
+
+.ecommerce-explore-section {
+    background-color: #f5f7fa;
+    font-family: "Roboto";
+}
+
+.ecommerce-explore-title {
+    color: #183b56;
+    font-weight: 700;
+    font-size: 45px;
+}
+
+
+.ecommerce-explore-card-container-heading {
+    color: #183b56;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.ecommerce-explore-card-container-item-name {
+    color: #1f2933;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.ecommerce-explore-all-deals {
+    color: #ff9f00;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.ecommerce-explore-card-container {
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 0px;
+    background-color: white;
+}
+
+.ecommerce-explore-card-container-item-img {
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 15px;
+}
+
+
+/* contact us section */
+
+.ecommerce-contactus-section {
+    /* background-color: #f5f7fa; */
+    font-family: "Roboto";
+}
+
+.ecommerce-contactus-title {
+    color: #183b56;
+    font-weight: bold;
+}
+
+.ecommerce-contactus-button {
+    color: #ff9f00;
+    background-color: transparent;
+    border-style: solid;
+    border-color: #ff9f00;
+    border-width: 2px;
+}
+
+
+/* footer section */
+
+.ecommerce-footer-section {
+    background-color: #0d2436;
+}
+
+.ecommerce-footer-icon-container {
+    height: 40px;
+    width: 40px;
+    color: #5a7184;
+    background-color: #152c3e;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 100%;
+    padding: 10px;
+    padding-left: 12px;
+}
+
+.ecommerce-footer-address {
+    color: #959ead;
+}
+
+.ecommerce-footer-container-heading {
+    color: #5a7184;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.ecommerce-footer-container-item {
+    color: #5a7184;
+    font-weight: 500;
+}
+
+.ecommerce-footer-hor-line {
+    border: 1px solid #5a7184;
+}
+
+.ecommerce-footer-copyright-icon {
+    color: #5a7184;
+    font-size: 18px;
+}
